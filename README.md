@@ -1,1 +1,1 @@
-The page to be cloned is [Paperbot](http://paperbot.ai/).
+The page to be cloned is [Paperbot](http://paperbot.ai/)
